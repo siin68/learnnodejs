@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejspro",
+  "keywords": [
+    "leannodejs"
+  ],
+  "homepage": "https://github.com/siin68/learnnodejs#readme",
+  "bugs": {
+    "url": "https://github.com/siin68/learnnodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siin68/learnnodejs.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "siin68",
+    "email": "tranhoangthin68@gmail.com"
+  },
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
